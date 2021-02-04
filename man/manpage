@@ -1,0 +1,49 @@
+.\" Manpage for Hackadroid.
+.\" Contact ashishsingh103020@gmail.com to correct errors or typos.
+.TH man 8 "22 Dec 2020" "1.0.1" "Hackadroid man page"
+
+.SH NAME
+Hackadroid 1.0.1
+
+.SH DESCRIPTION
+Hackadroid is an advanced automated android exploit tool that makes look android hacking simple.
+
+.SH OPTIONS
+
+1. Create a raw android payload, auto-hide script, start the listener, and makes a payload auto persistent.
+
+2. Create an embed payload with the original apk, an start auto listener.
+
+3. Makes an apk FUD, BY-PASS the play protect, and signs an apk with a key.
+
+4. Sign an apk manually with mixplorer.
+
+5. Decompile an Original apk
+
+6. Recompile a file into an apk
+
+7. Generate a persistent script for raw payload. (custom time delay)
+
+8. Generate a persistent script for the embedded payload. (custom time delay)
+
+9. Enable auto allow permissions in the payload.
+
+10. Change the apk name and icon. (Disclaimer:- It only works with the raw payload)
+
+11. Auto start listener on LAN. (Local Area Network)
+
+12. Auto start listener over WAN. (Wide Area Network using ngrok)
+
+13. Zipalign and compress the payload.
+
+14. Dex to Java decompiler, decompile Dalvik bytecode to java classes.
+
+For additional info, see: https://github.com/Bhaviktutorials
+
+.SH SEE ALSO
+https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ/about
+
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Ashish Singh <ashishsingh103020@gmail.com>
