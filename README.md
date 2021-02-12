@@ -22,15 +22,15 @@
 
 ## <p align="center"> What is hackadroid??
 
-###### HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. payload can be complicated sometime as its not easy to bind payloads with an apps & it takes hell lots of effects but still we end up getting error at the terminal. so we have made a tool that will make your work easy and you don't need to type and manually give instructions. this tool will automatically generate bind as well as raw payloads for you in just a Fraction of seconds this tool is also capable of making Android FUD(Fully Un Detectable )Payloads. one main feature is that it will give you an option of starting auto listener on the same IP and Port you have made payloads.
+###### <p align="center"> HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. payload can be complicated sometime as its not easy to bind payloads with an apps & it takes hell lots of effects but still we end up getting error at the terminal. so we have made a tool that will make your work easy and you don't need to type and manually give instructions. this tool will automatically generate bind as well as raw payloads for you in just a Fraction of seconds this tool is also capable of making Android FUD(Fully Un Detectable )Payloads. one main feature is that it will give you an option of starting auto listener on the same IP and Port you have made payloads.
 
 ## <p align="center"> <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80">  Additional Features:-
-###### • Customized Payload Name & Icon
-###### • Enable Auto allow Permission
-###### • FUD (Bypass play protect)
-###### • Auto Persistent payload ()
-###### • Auto listener (LAN & WAN)
-###### • DEX2JAVA (view source code of apk)
+###### <p align="center"> • Customized Payload Name & Icon
+###### <p align="center"> • Enable Auto allow Permission
+###### <p align="center"> • FUD (Bypass play protect)
+###### <p align="center"> • Auto Persistent payload ()
+###### <p align="center"> • Auto listener (LAN & WAN)
+###### <p align="center"> • DEX2JAVA (view source code of apk)
 
 
 ### <p align="center"> <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
