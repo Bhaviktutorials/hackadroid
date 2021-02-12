@@ -48,7 +48,7 @@
 ***
 ## <p align="center"> Screenshots:-
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/107745972-21a6a700-6d3b-11eb-85d0-192117d649b2.gif">
+<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/107746614-228c0880-6d3c-11eb-89d2-bced8a02284c.gif">
 
 
 ***
