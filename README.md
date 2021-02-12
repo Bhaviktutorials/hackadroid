@@ -19,9 +19,7 @@
 ###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
 ###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
 ---
-
 ## <p align="center"> What is hackadroid??
-
 ###### <p align="center"> HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. payload can be complicated sometime as its not easy to bind payloads with an apps & it takes hell lots of effects but still we end up getting error at the terminal. so we have made a tool that will make your work easy and you don't need to type and manually give instructions. this tool will automatically generate bind as well as raw payloads for you in just a Fraction of seconds this tool is also capable of making Android FUD(Fully Un Detectable )Payloads. one main feature is that it will give you an option of starting auto listener on the same IP and Port you have made payloads.
 
 ## <p align="center"> <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80">  Additional Features:-
