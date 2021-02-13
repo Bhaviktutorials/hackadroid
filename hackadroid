@@ -212,6 +212,8 @@ install_msf() {
 #########
 
 function fix_zipalign() {
+        arch=$(uname -m)
+	[ ${arch} != x86_64 ] && error_msg "Unkown acrh $acrh !!" && exit 0
 	launch="Checking for align error"
 	splashdown="Successfully fixed align error" ; echo
 	sudo tar -xf ${hackadroid_main}/lib_gnu/android_gnu.tar.gz -C ${hackadroid_main}/lib_gnu/ > /dev/null 2>&1
