@@ -20,7 +20,10 @@
 ###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
 ---
 ## <p align="center"> What is **HACKADROID**??
-###### <p align="center"> HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. payload can be complicated sometime as its not easy to bind payloads with an apps & it takes hell lots of effects but still we end up getting error at the terminal. so we have made a tool that will make your work easy and you don't need to type and manually give instructions. this tool will automatically generate bind as well as raw payloads for you in just a Fraction of seconds this tool is also capable of making Android FUD(Fully Un Detectable )Payloads. one main feature is that it will give you an option of starting auto listener on the same IP and Port you have made payloads.
+###### <p align="center"> HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker.
+###### <p align="center">The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy.
+###### <p align="center">Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
+
 ---
 ## <p align="center"> **Features** :-
 ## <table class="center">
@@ -30,7 +33,7 @@
 ###### <p align="center"> • Customized Payload Name & Icon
 ###### <p align="center"> • Enable Auto allow Permission
 ###### <p align="center"> • FUD (Bypass play protect)
-###### <p align="center"> • Auto Persistent payload ()
+###### <p align="center"> • Auto Persistent payload (Original)
 ###### <p align="center"> • Auto listener (LAN & WAN)
 ###### <p align="center"> • DEX2JAVA (view source code of apk)
 
@@ -46,7 +49,7 @@
 
 #### <p align="center"> ```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
 
-#### <p align="center"> Run Tool (using:-sudo) ```hackadroid```
+#### <p align="center"> Excite: ```hackadroid```
 ***
 ## <p align="center"> Screenshots:-
 
