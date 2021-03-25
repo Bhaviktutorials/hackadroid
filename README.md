@@ -49,10 +49,14 @@ Future is Here on your Fingertip
 
 ***
 
-## Stay in touch:-
+## Support ⭐
+| ![Daniel Eden](https://avatars2.githubusercontent.com/u/439365?s=460&u=512b4cc5324938ae40bbb8f3b7769d335953cd3a&v=4) | ![Elton Mesquita](https://avatars2.githubusercontent.com/u/5007208?s=460&u=418401ee605824272e5dcb955fd64ea24546a857&v=4) | 
+| --- | --- |
+| [Daniel Eden](https://github.com/daneden) | [Elton Mesquita](https://github.com/eltonmesquita) |
+| Animate.css Creator | Maintainer |
 
-#### Author:-  [Ashish]()
-####  Publisher:- [Bhavik Tutorials](https://github.com/Bhaviktutorials/)
+### Author:-  [Ashish]()
+###  Publisher:- [Bhavik Tutorials](https://github.com/Bhaviktutorials/)
 
 ##  For More Exiting Content  Do Follow Us:-
 
