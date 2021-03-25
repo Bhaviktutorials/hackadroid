@@ -1,11 +1,11 @@
-<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> </a>
+<p align="center"<a><img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> </a>
 
 # <p align="center">
-<p align="center">
+
   <img src="https://user-images.githubusercontent.com/64035221/106764878-3b226180-665e-11eb-839e-9ae4a87efabc.png">
 </p>
-<p align="center">Future is Here on your Fingertip
-<p align="center">
+Future is Here on your Fingertip
+
 <a href="https://github.com/Bhaviktutorials"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://paypal.me/bhavikoza"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
  <a href="https://github.com/Bhaviktutorials/hackadroid"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
@@ -15,55 +15,55 @@
  <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/hackadroid?style=social" ></a>
 </p>
 
-###### <p align="center">*This is **official** repository maintained by us*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+###### *This is **official** repository maintained by us*
+######  *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
+######  *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
 ---
-## <p align="center"> What is **HACKADROID**??
-###### <p align="center"> HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker.
-###### <p align="center">The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy.
-###### <p align="center">Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
+## What is **HACKADROID**??
+######  HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker.
+###### The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy.
+###### Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
 
 ---
-## <p align="center"> **Features** :-
+##  **Features** :-
 ## <table class="center">
 
 ---
-## <p align="center"> <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80">  Additional Features:-
-###### <p align="center"> • Customized Payload Name & Icon
-###### <p align="center"> • Enable Auto allow Permission
-###### <p align="center"> • FUD (Bypass play protect)
-###### <p align="center"> • Auto Persistent payload (Original)
-###### <p align="center"> • Auto listener (LAN & WAN)
-###### <p align="center"> • DEX2JAVA (view source code of apk)
+##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80">  Additional Features:-
+######  • Customized Payload Name & Icon
+###### • Enable Auto allow Permission
+######  • FUD (Bypass play protect)
+######  • Auto Persistent payload (Original)
+######  • Auto listener (LAN & WAN)
+######  • DEX2JAVA (view source code of apk)
 
 ---
-### <p align="center"> <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
+###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
 
-##### <p align="center"> [YouTube](https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s)
+#####  [YouTube](https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s)
 ---
-### <p align="center"> Setup :-
+###  Setup :-
 
-#### <p align="center">Executable Script
+#### Executable Script
 
 
-#### <p align="center"> ```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
+####  ```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
 
-#### <p align="center"> Excite: ```hackadroid```
+####  Excite: ```hackadroid```
 ***
-## <p align="center"> Screenshots:-
+##  Screenshots:-
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/107747634-bdd1ad80-6d3d-11eb-99f8-32e67a3a54cd.gif">
+<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif">
 
 
 ***
 
-## <p align="center">Stay in touch:-
+## Stay in touch:-
 
-#### <p align="center"> Author:-  [Ashish]()
-#### <p align="center"> Publisher:- [Bhavik Tutorials](https://github.com/Bhaviktutorials/)
+#### Author:-  [Ashish]()
+####  Publisher:- [Bhavik Tutorials](https://github.com/Bhaviktutorials/)
 
-## <p align="center"> For More Exiting Content  Do Follow Us:-
+##  For More Exiting Content  Do Follow Us:-
 
 <p align="center"><a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
 <a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
