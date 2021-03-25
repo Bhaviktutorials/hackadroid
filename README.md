@@ -20,16 +20,10 @@ Future is Here on your Fingertip
 ######  *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
 ---
 ## What is **HACKADROID**??
-######  HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker.
-###### The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy.
-###### Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
+######  HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy. Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
 
 ---
-##  **Features** :-
-## <table class="center">
-
----
-##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80">  Additional Features:-
+##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features:-
 ######  • Customized Payload Name & Icon
 ###### • Enable Auto allow Permission
 ######  • FUD (Bypass play protect)
@@ -42,14 +36,11 @@ Future is Here on your Fingertip
 
 #####  [YouTube](https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s)
 ---
-###  Setup :-
-
-#### Executable Script
-
+### Getting Started 🦸 :-
 
 ####  ```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
 
-####  Excite: ```hackadroid```
+####  Execute: ```hackadroid```
 ***
 ##  Screenshots:-
 
