@@ -1,9 +1,7 @@
-<p align="center"<a><img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> </a>
+<img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> </a>
 
-# <p align="center">
+  <img src="https://user-images.githubusercontent.com/64035221/112845533-943ccd80-90c2-11eb-9582-7a3e26d326de.png" width="360" height="360" >
 
-  <img src="https://user-images.githubusercontent.com/64035221/106764878-3b226180-665e-11eb-839e-9ae4a87efabc.png">
-</p>
 Future is Here on your Fingertip
 
 <a href="https://github.com/Bhaviktutorials"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
@@ -50,10 +48,10 @@ Future is Here on your Fingertip
 ***
 
 ## Support ⭐
-| ![Daniel Eden](https://avatars2.githubusercontent.com/u/439365?s=460&u=512b4cc5324938ae40bbb8f3b7769d335953cd3a&v=4) | ![Elton Mesquita](https://avatars2.githubusercontent.com/u/5007208?s=460&u=418401ee605824272e5dcb955fd64ea24546a857&v=4) |
+| <img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="410" height="350"> | <img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="410" height="350"> |
 | --- | --- |
-| [Daniel Eden](https://github.com/daneden) | [Elton Mesquita](https://github.com/eltonmesquita) |
-| Animate.css Creator | Maintainer |
+| [Ashish](https://github.com/just-hack) | [Bhavik Tutorials](https://github.com/Bhaviktutorials) |
+| Developer | Publisher |
 
 
 <p align="center"><a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
