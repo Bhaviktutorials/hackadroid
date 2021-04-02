@@ -1,5 +1,6 @@
+<center>
 <img title="Built With Love" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"> </a>
-
+</p>
   <img src="https://user-images.githubusercontent.com/64035221/112845533-943ccd80-90c2-11eb-9582-7a3e26d326de.png" width="360" height="360" >
 
 Future is Here on your Fingertip
@@ -13,17 +14,18 @@ Future is Here on your Fingertip
  <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/hackadroid?style=social" ></a>
 </p>
 
+
 ###### *This is **official** repository maintained by us*
 ######  *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-######  *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+######  *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*</center>
 ---
 ## What is **HACKADROID**??
 ######  HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy. Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
 
 ---
 ##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features:-
-######  • Customized Payload Name & Icon
-###### • Enable Auto allow Permission
+######  • Customized Payload Name & Iscreeniecon
+###### • Enable Auto allow Permissionscreenie
 ######  • FUD (Bypass play protect)
 ######  • Auto Persistent payload (Original)
 ######  • Auto listener (LAN & WAN)
@@ -40,18 +42,18 @@ Future is Here on your Fingertip
 
 ####  Execute: ```hackadroid```
 ***
-##  Screenshots:-
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif">
+##  Screenie:-
+<br>
+<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif" width="600" height="500">
 
 
 ***
-
 ## Support ⭐
-| <img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="410" height="350"> | <img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="410" height="350"> |
+
+| <img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="200" height="200"> | <img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="200" height="200"> |
 | --- | --- |
-| [Ashish](https://github.com/just-hack) | [Bhavik Tutorials](https://github.com/Bhaviktutorials) |
-| Developer | Publisher |
+| <center>[Ashish](https://github.com/just-hack) | <center>[Bhavik Tutorials](https://github.com/Bhaviktutorials) |
+| <center>Developer | <center>Publisher |
 
 
 <p align="center"><a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
