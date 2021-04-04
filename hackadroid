@@ -1,14 +1,15 @@
 #!/bin/bash
 
 #################### HACKADROID ######################
-# Project :     Hackadroid
+# Project : Hackadroid
 # access any android devices remotely               
 # Author: Ashish Singh (ashishsingh103020@gmail.com)
 # Date: 25 Dec 2020
 # Copyright (c) 2020
 # THE FIRST ON INTERNET
-# LICENSE : APACHE 2
-# CREATED BY ASHISH (just-hack)
+# LICENSE : GNU GENERAL PUBLIC LICENSE
+# CREATER : ASHISH (just-hack)
+# PUBLISHER : BHAVIK (@bhavik_tutorials)
 ######################################################
 
 
@@ -869,6 +870,20 @@ check_jdx() {
 			exit 1
 		fi
 	fi
+}
+
+########
+# NOTIFY
+########
+
+function notify-send() {
+    #Detect the name of the display in use
+    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
+    #Detect the user using such display
+    local user=$(who | grep '('$display')' | awk '{print $1}' | head -n 1)
+    #Detect the id of the user
+    local uid=$(id -u $user)
+    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
 }
 
 
