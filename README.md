@@ -22,12 +22,13 @@ Future is Here on your Fingertip
 
 ---
 ##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features:-
-##### <p align="center" style="line-height:18%"> • Customized Payload Name & Iscreeniecon
-##### <p align="center" style="line-height:18%"> • Enable Auto allow Permissionscreenie
-##### <p align="center" style="line-height:18%"> • DEX2JAVA (view source code of apk)
-##### <p align="center" style="line-height:18%"> • Auto Persistent payload (Original)
-##### <p align="center" style="line-height:18%"> • Auto listener (LAN & WAN)
-##### <p align="center" style="line-height:18%"> • FUD (Bypass play protect)
+#### <p align="center" style="line-height: 0.20;"> • DEX2JAVA (view source code of apk) </p>
+#### <p align="center" style="line-height: 0.20;"> • Customized Payload Name & Icon </p>
+
+#### <p align="center" style="line-height: 0.20;"> • Auto Persistent payload (Original) </p>
+#### <p align="center" style="line-height: 0.20;"> • Enable Auto allow Permissions </p>
+#### <p align="center" style="line-height: 0.20;"> • Auto listener (LAN & WAN) </p>
+#### <p align="center" style="line-height: 0.20;"> • FUD (Bypass play protect) </p>
 ---
 ###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
 
