@@ -21,7 +21,7 @@ Future is Here on your Fingertip
 ####  HACKADROID, you may have listened about payloads of course if you are a Pentester or Hacker. The payload can be complicated sometimes as it's not easy to build payloads with an app, so we have made a tool that will make your work easy. Hackadroid will automatically generate bind as well as create raw payloads for you in just a Fraction of seconds this is also capable of making Android FUD(Fully Un Detectable)Payloads. Also comes with the feature to start an auto listener on the same IP and Port you have to generate payloads.
 
 ---
-##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features:-
+##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features
 #### <p align="center" style="line-height: 0.20;"> • DEX2JAVA (view source code of apk) </p>
 #### <p align="center" style="line-height: 0.20;"> • Customized Payload Name & Icon </p>
 
@@ -30,16 +30,16 @@ Future is Here on your Fingertip
 #### <p align="center" style="line-height: 0.20;"> • Auto listener (LAN & WAN) </p>
 #### <p align="center" style="line-height: 0.20;"> • FUD (Bypass play protect) </p>
 ---
-###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
+###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials
 
 ##### <p align="center"> [YouTube](https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s) [Coming Soon]
 ---
-### Getting Started 🦸 :-
+### Getting Started 🦸
 
 ####  <p align="center">```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
 
 ***
-##  Screenie:-
+##  Screen
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif" width="600" height="500">
 
