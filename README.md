@@ -52,7 +52,7 @@ Future is Here on your Fingertip
     <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="200" height="200"></th>
   </tr>
   <tr>
-    <td><p align="center">Ashish</td>
+    <td><p align="center">Ashish Singh</td>
     <td><p align="center">Bhavik Tutorials</td>
   </tr>
   <tr>
