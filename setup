@@ -57,13 +57,13 @@ error_msg() {
 function check_root() {
         if [ "$(whoami &2>/dev/null)" != "root" ] && [ "$(id -un &2>/dev/null)" != "root" ]
 	then
-                echo;
+                printf "\n"
                 error_msg "admin user detected"
-                echo;
+                printf "\n"
                 error_msg "you must be root to run this script!"
-                echo;
+                printf "\n"
                 error_msg "use 'sudo !!'"
-                echo;
+                printf "\n"
                 exit 1
 	fi
 }
@@ -96,8 +96,7 @@ function check_net() {
 
 os_release() {
 	if [ -e ${PREFIX}/bin/termux-info ]; then
-		OS=TERMUX
-		echo termux 
+		OS=TERMUX		
 		exit 1
 	fi
 }
@@ -114,7 +113,7 @@ mirror() {
 }
 
 ngrok_yml() {
-	head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt
+	head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt >> /dev/null
         echo "tunnels:
   first:
     addr: 4567
@@ -122,7 +121,7 @@ ngrok_yml() {
   second:
     addr: 80
     proto: http " >> ngrok.txt
-        cat ngrok.txt > ~/.ngrok2/ngrok.yml
+        cat ngrok.txt > ~/.ngrok2/ngrok.yml >> /dev/null
         rm -rf ngrok.txt
 }
 
@@ -381,7 +380,6 @@ ngrok_yml
 final_touch
 finish_setup
 
-#### DONE ####
 
 ############################## THANKYOU FOR INSTALLING ########################################
 
