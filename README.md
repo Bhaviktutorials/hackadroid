@@ -47,8 +47,8 @@ Future is Here on your Fingertip
 ## Support <img src="https://user-images.githubusercontent.com/64035221/113476039-61b21c80-9496-11eb-93d1-97a97f6acaa6.png" width="30" height="30">
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="200" height="200"></th>
-    <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="200" height="200"></th>
+    <th><img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="250" height="250"></th>
+    <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="250" height="250"></th>
   </tr>
   <tr>
     <td><p align="center"><b>Ashish Singh</b></td>
