@@ -22,13 +22,12 @@ Future is Here on your Fingertip
 
 ---
 ##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features:-
-######  • Customized Payload Name & Iscreeniecon
-###### • Enable Auto allow Permissionscreenie
-######  • FUD (Bypass play protect)
-######  • Auto Persistent payload (Original)
-######  • Auto listener (LAN & WAN)
-######  • DEX2JAVA (view source code of apk)
-
+##### <p align="center" style="line-height:18%"> • Customized Payload Name & Iscreeniecon
+##### <p align="center" style="line-height:18%"> • Enable Auto allow Permissionscreenie
+##### <p align="center" style="line-height:18%"> • DEX2JAVA (view source code of apk)
+##### <p align="center" style="line-height:18%"> • Auto Persistent payload (Original)
+##### <p align="center" style="line-height:18%"> • Auto listener (LAN & WAN)
+##### <p align="center" style="line-height:18%"> • FUD (Bypass play protect)
 ---
 ###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials:-
 
