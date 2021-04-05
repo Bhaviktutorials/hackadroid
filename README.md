@@ -22,13 +22,12 @@ Future is Here on your Fingertip
 
 ---
 ##  <img src="https://media.giphy.com/media/l1J9Jso7LPhtYWEKI/giphy.gif" alt="GitHub" width="80" height="80"> Features
-#### <p align="center" style="line-height: 0.20;"> • DEX2JAVA (view source code of apk) </p>
-#### <p align="center" style="line-height: 0.20;"> • Customized Payload Name & Icon </p>
-
-#### <p align="center" style="line-height: 0.20;"> • Auto Persistent payload (Original) </p>
-#### <p align="center" style="line-height: 0.20;"> • Enable Auto allow Permissions </p>
-#### <p align="center" style="line-height: 0.20;"> • Auto listener (LAN & WAN) </p>
-#### <p align="center" style="line-height: 0.20;"> • FUD (Bypass play protect) </p>
+#### • DEX2JAVA (view source code of apk) </p>
+#### • Customized Payload Name & Icon </p>
+#### • Auto Persistent payload (Original) </p>
+#### • Enable Auto allow Permissions </p>
+#### • Auto listener (LAN & WAN) </p>
+#### • FUD (Bypass play protect) </p>
 ---
 ###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials
 
@@ -39,7 +38,7 @@ Future is Here on your Fingertip
 ####  <p align="center">```wget https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash```
 
 ***
-##  Screen
+##  Workflow ⚙️
 <br>
 <p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif" width="600" height="500">
 
