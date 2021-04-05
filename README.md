@@ -51,12 +51,12 @@ Future is Here on your Fingertip
     <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="200" height="200"></th>
   </tr>
   <tr>
-    <td><p align="center">Ashish Singh</td>
-    <td><p align="center">Bhavik Tutorials</td>
+    <td><p align="center"><b>Ashish Singh</b></td>
+    <td><p align="center"><b>Bhavik Tutorials</b></td>
   </tr>
   <tr>
-    <td><p align="center">Developer</td>
-    <td><p align="center">Publisher</td>
+    <td><p align="center"><b>Developer</b></td>
+    <td><p align="center"><b>Publisher</b></td>
   </tr>
 </table>
 
