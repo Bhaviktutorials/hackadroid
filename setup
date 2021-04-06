@@ -311,7 +311,6 @@ check_dependencies () {
 	fi
 	# NGROK
 	echo
-	sudo rm -rf /usr/bin/ngrok
         which ngrok > /dev/null 2>&1
         if [ "$?" -eq "0" ]; then
                 echo -e $green "[ ✔ ] Ngrok.............................${lgreen}[ found ]"                
@@ -368,7 +367,7 @@ finish_setup() {
 }
 
 #### ACTION ####
-
+sudo rm -rf /usr/bin/ngrok
 check_net
 check_root
 os_release
