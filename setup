@@ -113,7 +113,7 @@ mirror() {
 }
 
 ngrok_yml() {
-	head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt >> /dev/null
+	sudo head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt >> /dev/null
         echo "tunnels:
   first:
     addr: 4567
@@ -121,7 +121,7 @@ ngrok_yml() {
   second:
     addr: 80
     proto: http " >> ngrok.txt
-        cat ngrok.txt > ~/.ngrok2/ngrok.yml >> /dev/null
+        sudo cat ngrok.txt > ~/.ngrok2/ngrok.yml >> /dev/null
         rm -rf ngrok.txt
 }
 
@@ -311,6 +311,7 @@ check_dependencies () {
 	fi
 	# NGROK
 	echo
+	sudo rm -rf /usr/bin/ngrok
         which ngrok > /dev/null 2>&1
         if [ "$?" -eq "0" ]; then
                 echo -e $green "[ ✔ ] Ngrok.............................${lgreen}[ found ]"                
@@ -329,7 +330,7 @@ check_dependencies () {
 			sudo -u $user_id -H firefox --new-tab $ngrok_url_signup > /dev/null 2>&1 &
 			sleep 25
 		fi
-                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && chmod +x ngrok && $ngrok_token >> /dev/null 2>&1 && mv ngrok /usr/bin > /dev/null 2>&1              
+                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && chmod +x ngrok && sudo $ngrok_token >> /dev/null 2>&1 && mv ngrok /usr/bin > /dev/null 2>&1              
 	fi
 }
 
