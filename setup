@@ -329,7 +329,7 @@ check_dependencies () {
 			sudo -u $user_id -H firefox --new-tab $ngrok_url_signup > /dev/null 2>&1 &
 			sleep 25
 		fi
-                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && $ngrok_token >> /dev/null 2>&1 && mv ngrok /usr/bin > /dev/null 2>&1              
+                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && chmod +x ngrok && $ngrok_token >> /dev/null 2>&1 && mv ngrok /usr/bin > /dev/null 2>&1              
 	fi
 }
 
