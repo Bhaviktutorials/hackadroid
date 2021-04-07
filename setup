@@ -113,7 +113,7 @@ mirror() {
 }
 
 ngrok_yml() {
-	sudo head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt >> /dev/null
+	sudo head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt
         echo "tunnels:
   first:
     addr: 4567
@@ -121,7 +121,7 @@ ngrok_yml() {
   second:
     addr: 80
     proto: http " >> ngrok.txt
-        sudo cat ngrok.txt > ~/.ngrok2/ngrok.yml >> /dev/null
+        sudo cat ngrok.txt > ~/.ngrok2/ngrok.yml 
         rm -rf ngrok.txt
 }
 
@@ -318,9 +318,9 @@ check_dependencies () {
         else
                 echo -e $red "[ X ] Ngrok................................${lred}[ missing! ]"
                 sleep 2
-                xterm -T "Hackadroid" -e "wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip"
-		unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1 && rm -rf ngrok-stable-linux-amd64.zip > /dev/null 2>&1
-		rm -rf ~/.ngrok2/ngrok.yml > /dev/null 2>&1
+                xterm -T "Hackadroid" -e "sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip"
+		sudo unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1 && sudo rm -rf ngrok-stable-linux-amd64.zip > /dev/null 2>&1
+		sudo rm -rf ~/.ngrok2/ngrok.yml > /dev/null 2>&1
 		login_signup=$(zenity --question --title "NGROK" --text "Already have an ngrok account" --width 300 --height 100 2> /dev/null)
 		if [ $? -eq 0 ];then
 			sudo -u $user_id -H firefox --new-tab $ngrok_url_login > /dev/null 2>&1 &
@@ -329,7 +329,7 @@ check_dependencies () {
 			sudo -u $user_id -H firefox --new-tab $ngrok_url_signup > /dev/null 2>&1 &
 			sleep 25
 		fi
-                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && chmod +x ngrok && sudo $ngrok_token >> /dev/null 2>&1 && mv ngrok /usr/bin > /dev/null 2>&1              
+                ngrok_token=$(zenity --title "NGROK TOKEN" --text "enter your ngrok authtoken" --entry --entry-text "./ngrok authtoken <your_auth_token>" --width 300 --height 120 2> /dev/null) && sudo chmod +x ngrok && sudo $ngrok_token >> /dev/null 2>&1 && sudo mv ngrok /usr/bin > /dev/null 2>&1              
 	fi
 }
 
