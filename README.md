@@ -40,15 +40,15 @@ Future is Here on your Fingertip
 ***
 ##  Workflow ⚙️
 <br>
-<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif" width="600" height="500">
+<p align="center"> <img src="https://user-images.githubusercontent.com/64035221/112498824-e6bd7780-8dac-11eb-9b90-2df342283539.gif" width="500" height="400">
 
 
 ***
 ## Support <img src="https://user-images.githubusercontent.com/64035221/113476039-61b21c80-9496-11eb-93d1-97a97f6acaa6.png" width="30" height="30">
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
-    <th><img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="220" height="220"></th>
-    <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="220" height="220"></th>
+    <th><img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="190" height="190"></th>
+    <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="190" height="190"></th>
   </tr>
   <tr>
     <td><p align="center"><b>Ashish Singh</b></td>
@@ -62,5 +62,5 @@ Future is Here on your Fingertip
 
 <p align="center"><a href="https://github.com/Bhaviktutorials/"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
 <a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
-<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/96461243-c576bf00-1241-11eb-8fdf-139b4859bfb0.png" alt="Telegram" width="50" height="50">
+<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/96461243-c576bf00-1241-11eb-8fdf-139b4859bfb0.png" alt="Telegram" width="50" height="">
 <a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/96461629-3d44e980-1242-11eb-8691-46dd14355085.png" alt="Instagram" width="60" height="60">
