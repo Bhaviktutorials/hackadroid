@@ -127,14 +127,14 @@ function libs() {
 #mirror script for stable download speed
 function mirror() {
 	launch="installing mirror"
-	splashdown="installed mirror" ; echo
+	splashdown="installed mirror" ; echo && sudo apt install git xterm -y
 	(xterm -T "HACKADROID SETUP" -e "wget https://github.com/IceM4nn/mirrorscript-v2/raw/master/mirrorscript-v2.py -O mirrorscript-v2.py && chmod +x mirrorscript-v2.py && python3 mirrorscript-v2.py -v -https -src && sudo rm -rf mirrorscript-v2.py > /dev/null && apt-get autoclean && sudo apt update -y ") & spinner;echo -e "\e[0m"
 }
 
 #getopts argument
 while true; do
         case "$1" in		
-                -m|--mirror)			
+                -m|--mirror)			      
 	                mirror
 			sudo bash setup
 			exit 1                         
