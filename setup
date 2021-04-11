@@ -117,7 +117,7 @@ EOF
 #libraries
 function libs() {
         launch="checking for update"
-	splashdown="checked for update"
+	splashdown="checked for update" ; echo
 	(sudo apt update -y > /dev/null 2>&1 && sudo apt install git xterm -y > /dev/null 2>&1) & spinner;echo -e "\e[0m"
 	for lib in libpq-dev libpcap-dev libsqlite3-dev whiptail; do
                  xterm -T "HACKADROID SETUP" -e "sudo apt install ${lib} -y"
@@ -128,7 +128,7 @@ function libs() {
 function mirror() {
 	launch="installing mirror"
 	splashdown="installed mirror" ; echo && sudo apt install git xterm -y /dev/null 2>&1
-	(xterm -T "HACKADROID SETUP" -e "wget https://github.com/IceM4nn/mirrorscript-v2/raw/master/mirrorscript-v2.py -O mirrorscript-v2.py && chmod +x mirrorscript-v2.py && python3 mirrorscript-v2.py -v -https -src && sudo rm -rf mirrorscript-v2.py > /dev/null && apt-get autoclean && sudo apt update -y ") & spinner;echo -e "\e[0m"
+	(xterm -T "HACKADROID SETUP" -e "wget https://github.com/IceM4nn/mirrorscript-v2/raw/master/mirrorscript-v2.py -O mirrorscript-v2.py && chmod +x mirrorscript-v2.py && python3 mirrorscript-v2.py -v -https -src && sudo rm -rf mirrorscript-v2.py > /dev/null && apt-get autoclean && sudo apt update -y ") & spinner
 }
 
 #getopts argument
