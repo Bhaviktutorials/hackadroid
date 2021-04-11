@@ -121,6 +121,7 @@ function libs() {
 	(sudo apt update -y > /dev/null 2>&1 && sudo apt install git xterm -y > /dev/null 2>&1) & spinner;echo -e "\e[0m"
 	for lib in libpq-dev libpcap-dev libsqlite3-dev whiptail; do
                  xterm -T "HACKADROID SETUP" -e "sudo apt install ${lib} -y"
+        done
 }
 
 #mirror script for stable download speed
