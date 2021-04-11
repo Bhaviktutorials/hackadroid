@@ -101,18 +101,63 @@ os_release() {
 	fi
 }
 
-#mirror script for stable download speed
-
-mirror() {
-	launch="checking for update"
-	splashdown="checked for update" ; echo
-	(sudo apt update -y > /dev/null 2>&1 && sudo apt install git xterm -y > /dev/null 2>&1 ) & spinner;echo -e "\e[0m"
-	launch="installing mirror script"
-	splashdown="mirror script installed"
-	(xterm -T "HACKADROID SETUP" -e "git clone https://github.com/IceM4nn/mirrorscript-v2.git && cd mirrorscript-v2 && chmod +x * && python3 mirrorscript-v2.py -v -https -src && cd .. && rm -rf mirrorscript-v2 > /dev/null && apt-get autoclean && sudo apt update -y && sudo apt install libpq-dev libpcap-dev libsqlite3-dev whiptail -y") & spinner;echo -e "\e[0m"
+function usage() {
+        cat <<EOF
+Usage: $(basename $0) [OPTIONS] available
+Hackadroid is a an advanced automated android exploit tool
+that makes look android hacking simple.
+Copyright 2020 <ashishsingh103020@gmail.com>
+Options:
+  -m, --mirror      Install mirror server (fast downloading speeed)
+  -h, --help        Print this help message
+For additional info, see: https://github.com/Bhaviktutorials/hackadroid
+EOF
 }
 
-ngrok_yml() {
+#libraries
+function libs() {
+        launch="checking for update"
+	splashdown="checked for update" ; echo
+	(sudo apt update -y > /dev/null 2>&1 && sudo apt install git xterm -y > /dev/null 2>&1) & spinner;echo -e "\e[0m"
+	for lib in libpq-dev libpcap-dev libsqlite3-dev whiptail; do
+                 xterm -T "HACKADROID SETUP" -e "sudo apt install ${lib} -y"
+}
+
+#mirror script for stable download speed
+function mirror() {
+	launch="installing mirror"
+	splashdown="installed mirror" ; echo
+	(xterm -T "HACKADROID SETUP" -e "wget https://github.com/IceM4nn/mirrorscript-v2/raw/master/mirrorscript-v2.py -O mirrorscript-v2.py && chmod +x mirrorscript-v2.py && python3 mirrorscript-v2.py -v -https -src && sudo rm -rf mirrorscript-v2.py > /dev/null && apt-get autoclean && sudo apt update -y ") & spinner;echo -e "\e[0m"
+}
+
+#getopts argument
+while true; do
+        case "$1" in		
+                -m|--mirror)			
+	                mirror
+			sudo bash setup
+			exit 1                         
+			;;
+
+                -h|--help)			
+                        usage       
+                        exit 1
+			;;
+                -*)			
+                        echo "ERROR: unknown option '$1'" 1>&2
+                        echo "see '--help' for usage" 1>&2
+                        exit 1
+                        ;;
+
+                *)	
+                        f=$1
+                        break			
+                        ;;
+	esac
+        shift
+done
+
+function ngrok_yml() {
 	sudo head -n1 ~/.ngrok2/ngrok.yml > ngrok.txt
         echo "tunnels:
   first:
@@ -122,10 +167,10 @@ ngrok_yml() {
     addr: 80
     proto: http " >> ngrok.txt
         sudo cat ngrok.txt > ~/.ngrok2/ngrok.yml 
-        rm -rf ngrok.txt
+        sudo rm -rf ngrok.txt
 }
 
-check_dependencies () {		
+function check_dependencies () {		
 	echo -ne '\e[8;41;95t' 
 	clear
 	echo -e $white
@@ -371,7 +416,7 @@ sudo rm -rf /usr/bin/ngrok
 check_net
 check_root
 os_release
-mirror
+libs
 main_setup
 check_dependencies
 check_dependencies
