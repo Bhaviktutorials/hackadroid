@@ -108,7 +108,7 @@ Hackadroid is a an advanced automated android exploit tool
 that makes look android hacking simple.
 Copyright 2020 <ashishsingh103020@gmail.com>
 Options:
-  -m, --mirror      Install mirror server (fast downloading speeed)
+  -m, --mirror      Install mirror server (faster downloading speeed)
   -h, --help        Print this help message
 For additional info, see: https://github.com/Bhaviktutorials/hackadroid
 EOF
