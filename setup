@@ -136,7 +136,7 @@ while true; do
         case "$1" in		
                 -m|--mirror)			      
 	                mirror
-			sudo bash <(wget -qO- https://raw.githubusercontent.com/Bhaviktutorials/hackadroid/main/setup)
+			wget -q https://github.com/Bhaviktutorials/hackadroid/raw/main/setup -O - | sudo bash
 			exit 1                         
 			;;
 
