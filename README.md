@@ -35,9 +35,9 @@ Future is Here on your Fingertip
 ---
 ### Getting Started 🦸
 
-#### ```wget -qO- https://github.com/Bhaviktutorials/hackadroid/raw/main/setup | sudo bash```
+#### <p align="center"> ```wget -qO- https://github.com/Bhaviktutorials/hackadroid/raw/main/setup | sudo bash```
 
-#### For fast download :```wget -qO- https://github.com/Bhaviktutorials/hackadroid/raw/main/setup | sudo bash -s -- --mirror```
+#### For fast download : <p align="center"> ```wget -qO- https://github.com/Bhaviktutorials/hackadroid/raw/main/setup | sudo bash -s -- --mirror```
 ***
 ##  Workflow ⚙️
 <br>
