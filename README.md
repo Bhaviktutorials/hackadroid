@@ -29,9 +29,9 @@ Future is Here on your Fingertip
 #### • Auto listener (LAN & WAN) </p>
 #### • FUD (Bypass play protect) </p>
 ---
-###  <img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" alt="GitHub" width="110" height="50"> Tutorials
+### <p align="center"> <img src="https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif" alt="Instagram" width="80" height="80" > **Instagram Tutorial :-**
 
-##### <p align="center"> [YouTube](https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s) [Coming Soon]
+#### <p align="center"> [**IGTV**](https://www.instagram.com/tv/CPizOl7pISk/?utm_source=ig_web_copy_link)
 ---
 ### Getting Started 🦸
 
