@@ -219,7 +219,7 @@ function thankyou() {
                       +\e[1;37m          Thankyou for using hackadroid.          \e[1;92m+\e[1;92m
                       +\e[1;37m     Keep supporting bhaviktutorilas on youtube.  \e[1;92m+\e[1;92m
                       +\e[1;37m         https://github.com/Bhaviktutorials       \e[1;92m+\e[1;92m
-                      +\e[1;37m             Auhor & Develop by Ashish.           \e[1;92m+\e[1;92m
+                      +\e[1;37m             Author & Develop by Ashish.           \e[1;92m+\e[1;92m
                       ++++++++++++++++++++++++++++++++++++++++++++++++++++\e[0m\n\n"        
 }
 
